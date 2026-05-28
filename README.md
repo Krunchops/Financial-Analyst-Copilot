@@ -129,16 +129,5 @@ This was the first time backend engineering started feeling “real” instead o
 
 ---
 
-# Biggest Takeaway
-
-This project changed how I think about AI engineering.
-
-Before:
-
-> AI = prompt + model
-
-Now:
-
-> AI systems = orchestration + context + infrastructure + reliability + reasoning
 
 And honestly, that was probably the most valuable thing I learned from building this.
